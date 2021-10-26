@@ -1,0 +1,162 @@
+body{
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    padding: 21px 0;
+}
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 10%;
+    float: left;
+}
+.logo img{
+   width: 100%;
+}
+.menu{
+    width: 60%;
+    float: right;
+}
+.menu ul{
+    float: right;
+}
+.menu ul li{
+    list-style-type: none;
+    float: left;
+    
+}
+.menu ul li a {
+    display: inline-block;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #0f2656;
+}
+.menu ul li a:hover{
+    color:#008aff ;
+} 
+.menu ul li:last-child a{
+    padding-right: 0%;
+}
+.banner{
+    padding: 70px 0;
+}
+.wrapper2{
+    width: 70%;
+    margin: 0 auto;
+}
+.content{
+    text-align: center;
+}
+.h1{
+    margin: 0%;
+    line-height: 60px;
+    font-size: 43px;
+    color: #0f2656;
+}
+.s1{
+    color: #008aff;
+}
+.p1{
+    color: #0f2656;
+    margin: 20px 0;
+    font-size: 18px;
+}
+.img2{
+     margin: 0 auto;
+     width: 70%;
+}
+.img2 img{
+    width: 100%;
+    transition: .3s;
+}
+.img2 img:hover{  
+    transform: scale(.8);
+}
+.success{
+    padding: 60px 0;
+}
+.s-content{
+    overflow: hidden;
+}
+.left{
+    padding: 0 30px 0 140px;
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+.h2{
+    font-size: 50px;
+    margin: 0%;
+    color: #f15767;
+}
+.p2{
+    margin: 0;
+    line-height: 27px;
+    font-size: 16px;
+    color: #0f2656;
+}
+.right{
+    padding: 0 70px 0 15px;
+    width: 45%;
+    float: right;
+}
+.h3{
+    text-align: left;
+    margin: 0 ;
+    color: #0f2656;
+    font-size: 43px;
+}
+.s-single{
+    width: 27%;
+    padding: 60px 2.1%;
+    float: left;
+    margin-right: 3.2%;
+    
+}
+.s-single:last-child{
+    margin-right: 0;
+}
+.pink{
+    background-color: #fdebed;
+}
+.green{
+    background-color: #ebf9f4;
+}
+.yellow{
+    background-color: #fff7e8;
+}
+.s-img img{
+    width: 100%;
+}
+.h4{
+    color: #0f2656;
+    margin: 15px 0;
+    font-size: 20px;
+}
+.p3{
+    color: #0f2656;
+    line-height: 27px;
+    font-size: 18px;
+    margin: 0%;
+}
+footer{
+    background-color: #008aff ;
+    padding: 30px 0;
+}
+.p5{
+    margin: 0;
+    text-align: center;
+    font-size: 16px;
+    color:#0f2656 ;
+    word-spacing: 3px;
+}
+.a10{
+    letter-spacing: 3px;
+    color: blanchedalmond;
+    text-decoration: none;
+}
